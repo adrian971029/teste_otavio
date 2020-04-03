@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#505050</color>
+    <color name="colorPrimaryDark">#505050</color>
+    <color name="colorAccent">#505050</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#050000</color>
+    <color name="grey">#7C7C7C</color>
+    <color name="backgraundLogo">#5B6D80</color>
+    <color name="botaoSelecionado">#2990EE</color>
+</resources>

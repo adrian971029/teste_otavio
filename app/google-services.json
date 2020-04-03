@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978176673385",
+    "firebase_url": "https://jewelrycam-f1cba.firebaseio.com",
+    "project_id": "jewelrycam-f1cba",
+    "storage_bucket": "jewelrycam-f1cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978176673385:android:6e3dbd50b2c978982104f8",
+        "android_client_info": {
+          "package_name": "com.example.rotatecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978176673385-22hra0m5fgfuj2ghlahsu9sdrcq477pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rotatecam",
+            "certificate_hash": "0f5f9f23996c1c34c9b6d1edc425f4caee990fed"
+          }
+        },
+        {
+          "client_id": "978176673385-2cq4ptl7ggbq3t31mdorse9vb0nkv5eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCkN0neOvOMNED5W0V_UZIYC69i-Op2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978176673385-2cq4ptl7ggbq3t31mdorse9vb0nkv5eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
